@@ -1,0 +1,88 @@
+{
+    "Mathematiques": [
+        {
+            "question": "e est un nombre:",
+            "reponses": ["1. Rationel", "2. Complexe", "3. Irrationel"],
+            "correct": 3
+        },
+        {
+            "question": "De tete 81*26",
+            "reponses": ["1. 2106", "2. 2050", "3. 2016"],
+            "correct": 1
+        },
+        {
+            "question": "Developper c'est:",
+            "reponses": ["1. Bien", "2. Complexe", "3. Mal"],
+            "correct": 3
+        }
+    ],
+    "Histoire-Geographie": [
+        {
+            "question": "1989 est:",
+            "reponses": ["1. La date de la chute de l'URSS", "2. La date de la chute du mur de Berlin", "3. L'annee de naissance de ma mere"],
+            "correct": 2
+        },
+        {
+            "question": "La capitale de la Zambie est:",
+            "reponses": ["1. Lasuka", "2. Lusaka", "3. Lasika"],
+            "correct": 2
+        },
+        {
+            "question": "Jesus Christ:",
+            "reponses": ["1. Est ne 4 ans avant lui meme", "2. Est mort a 31 ans", "3. N'a jamais existe"],
+            "correct": 1
+        }
+    ],
+    "Anglais": [
+        {
+            "question": "Jam sigifie:",
+            "reponses": ["1. Jambon", "2. Confiture", "3. Jogging away midnight"],
+            "correct": 2
+        },
+        {
+            "question": "Traduire: J'aime manger des pates a la carbonara avec du beurre",
+            "reponses": ["1. I like to eat pasta carbonara with butter", "2. I like to eat pasta carbonara on butter", "3. I like to ate pasta carbonara with butter"],
+            "correct": 1
+        },
+        {
+            "question": "William Shakespeare a dit",
+            "reponses": ["1. You should not kill", "2. Thou shalt not kill", "3. You not going to kill point"],
+            "correct": 2
+        }
+    ],
+    "Francais": [
+        {
+            "question": "Cette definition: \"Valeur caracterisant la resistance au choc d'un metal.\" est celle du ou des mots:",
+            "reponses": ["1. Force mentale", "2. Remise en question", "3. Resilience"],
+            "correct": 3
+        },
+        {
+            "question": "Un epitrochasme est une figure de style:",
+            "reponses": ["1. Qui n'existe pas", "2. Donnant un sens distinct à deux suite de mots proche", "3. Fondee sur une accumulation de mots courts et expressifs"],
+            "correct": 3
+        },
+        {
+            "question": "Quel est le prenom de Rimbaud",
+            "reponses": ["1. Romain", "2. Arthur", "3. Paul"],
+            "correct": 2
+        }
+    ],
+    "NSI": [
+        {
+            "question": "Qui a inventé Python?",
+            "reponses": ["1. Un americain en 1995", "2. Un neerlandais en 1991", "3. Un francais en 2006"],
+            "correct": 2
+        },
+        {
+            "question": "Lequel de ces languages de progammation n'utilise pas le paradigme fonctionnel?",
+            "reponses": ["Haskell", "VBS", "Rust"],
+            "correct": 1
+        },
+        {
+            "question": "Quand la méthode __enter__() dans une classe en Python est-elle appelée?",
+            "reponses": ["1. Lorsqu'on modifie la classe", "2. Avant d'éxécuter le code d'un context manager", "3. Avant la première itération d'un générateur"],
+            "correct": 2
+        }
+    ]
+
+}
