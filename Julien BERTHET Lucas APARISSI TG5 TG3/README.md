@@ -6,7 +6,7 @@
 
 ## Projet de NSI de Terminale sur Python Orienté Objet
 
-Ce projet consiste en une simulation de lycée avec des combat intégrés  
+Ce projet consiste en une simulation de lycée avec des combats intégrés  
 Lyceo est le nom d'une application fictive similaire à EcoleDirecte et ProNotes
 
-### Fichier Principal: lyceo.py
+### Fichier Principal: main.py
